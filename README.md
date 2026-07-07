@@ -1,7 +1,7 @@
 <div align="center">
 
-# ☕ MoodBrew — AI Generative Ad Campaign
-### 멀티모달 AI 광고 제작 파이프라인 미션 · 최종 제출본
+#   MoodBrew — AI Generative Ad Campaign
+### 멀티모달 AI 광고 제작 파이프라인 미션
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![Length](https://img.shields.io/badge/Video-10초_4씬-blue?style=for-the-badge)
